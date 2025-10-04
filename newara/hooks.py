@@ -1,8 +1,8 @@
 app_name = "newara"
 app_title = "NEWARA"
-app_publisher = "contact@half-ware.com"
-app_description = "TEMPLATE FRAPPE NEWARA"
-app_email = "contact@half-ware.com"
+app_publisher = "contact@gralab.io"
+app_description = "TEMPLATE GRALAB NEWARA"
+app_email = "contact@gralab.io"
 app_license = "mit"
 # required_apps = []
 
